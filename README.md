@@ -5,7 +5,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
       <p>Email: wjdrms0402@gmail.com</p>
-      Portfolio: [<span style="display:none;">Notion Link</span>](https://www.notion.so/037ac39dae984df08f07b205ff493804?pvs=4)
+      Portfolio: <a href="https://www.notion.so/037ac39dae984df08f07b205ff493804?pvs=4">Notion Link</a>
 </div>
 <h2 align="center">✨ Tech Stack ✨</h2>
 <h3 align="center"> language </h3>
