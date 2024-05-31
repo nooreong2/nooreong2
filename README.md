@@ -41,9 +41,9 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F3F3F3.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-F3F3F3.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/git-F3F3F3.svg?style=for-the-badge&logo=git&logoColor=#F05032" />&nbsp
+  <img src="https://img.shields.io/badge/github-F3F3F3.svg?style=for-the-badge&logo=github&logoColor=#181717" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/Discord-F3F3F3.svg?style=for-the-badge&logo=discord&logoColor=#5865F2" />&nbsp
 </div>
 
