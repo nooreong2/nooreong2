@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nooreong's%20hub&fontSize=90)
-<div>
-  <p>데이터 엔지니어 주니어 개발자입니다.</p>
+<div align="center">
+  <p>💻 데이터 엔지니어 주니어 개발자입니다.</p>
 </div>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
       <p>Email: wjdrms0402@gmail.com</p>
-      <p>portfolio:</p> [https://www.notion.so/037ac39dae984df08f07b205ff493804?pvs=4](#)
+      <p>portfolio:[https://www.notion.so/037ac39dae984df08f07b205ff493804?pvs=4](#)</p> 
 </div>
 <h2 align="center">✨ Tech Stack ✨</h2>
 <h3 align="center"> language </h3>
