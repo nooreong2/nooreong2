@@ -2,23 +2,23 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Python&logoColor=#3776AB" />&nbsp
-  <img src="https://img.shields.io/badge/SQL-20232a.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/Python-F3F3F3.svg?style=for-the-badge&logo=Python&logoColor=#3776AB" />&nbsp
+  <img src="https://img.shields.io/badge/SQL-F3F3F3.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/Django-F3F3F3.svg?style=for-the-badge&logo=Django&logoColor=#092E20" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=##4479A1" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=#4169E1" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-F3F3F3.svg?style=for-the-badge&logo=mysql&logoColor=##4479A1" />&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-F3F3F3.svg?style=for-the-badge&logo=postgresql&logoColor=#4169E1" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS Redshift-F3F3F3.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF" />&nbsp
+  <img src="https://img.shields.io/badge/Snowflake-F3F3F3.svg?style=for-the-badge&logo=snowflake&logoColor=#29B5E8" />&nbsp
+  <img src="https://img.shields.io/badge/Google BigQuery-F3F3F3.svg?style=for-the-badge&logo=googlebigquery&logoColor=#669DF6" />&nbsp
+  <img src="https://img.shields.io/badge/AWS S3-F3F3F3.svg?style=for-the-badge&logo=amazons3&logoColor=#569A31" />&nbsp
 </div>
 
 
