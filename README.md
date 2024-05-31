@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nooreong's%20Github&fontSize=90)
 <!--
 **nooreong2/nooreong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
