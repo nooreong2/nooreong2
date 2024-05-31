@@ -15,14 +15,13 @@
   <img src="https://img.shields.io/badge/Django-F3F3F3.svg?style=for-the-badge&logo=django&logoColor=#092E20" />&nbsp
 </div>
 
-<h3 align="center"> Database </h3>
+<h3 align="center"> 🛢️ Data 🛢️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-F3F3F3.svg?style=for-the-badge&logo=mysql&logoColor=##4479A1" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-F3F3F3.svg?style=for-the-badge&logo=postgresql&logoColor=#4169E1" />&nbsp
 </div>
 
 <br>
-<h3 align="center"> Data Warehouse & Data Lake </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS%20Redshift-F3F3F3.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF" />&nbsp
   <img src="https://img.shields.io/badge/Snowflake-F3F3F3.svg?style=for-the-badge&logo=snowflake&logoColor=#29B5E8" />&nbsp
@@ -32,7 +31,6 @@
 
 
 <br>
-<h3 align="center"> Data ETL & Pipeline </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-F3F3F3.svg?style=for-the-badge&logo=pandas&logoColor=#150458" />&nbsp
   <img src="https://img.shields.io/badge/airflow-F3F3F3?style=for-the-badge&logo=apacheairflow&logoColor=#017CEE" />&nbsp
