@@ -1,21 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nooreong's%20hub&fontSize=90)
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
+<h3 align="center"> language </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-F3F3F3.svg?style=for-the-badge&logo=Python&logoColor=#3776AB" />&nbsp
   <img src="https://img.shields.io/badge/SQL-F3F3F3.svg?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/Django-F3F3F3.svg?style=for-the-badge&logo=Django&logoColor=#092E20" />&nbsp
+  <img src="https://img.shields.io/badge/Django-F3F3F3.svg?style=for-the-badge&logo=django&logoColor=#092E20" />&nbsp
 </div>
 
+<h3 align="center"> Database </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-F3F3F3.svg?style=for-the-badge&logo=mysql&logoColor=##4479A1" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-F3F3F3.svg?style=for-the-badge&logo=postgresql&logoColor=#4169E1" />&nbsp
 </div>
 
 <br>
-
+<h3 align="center"> Data Warehouse & Data Lake </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS Redshift-F3F3F3.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF" />&nbsp
+  <img src="https://img.shields.io/badge/AWS%20Redshift-F3F3F3.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF" />&nbsp
   <img src="https://img.shields.io/badge/Snowflake-F3F3F3.svg?style=for-the-badge&logo=snowflake&logoColor=#29B5E8" />&nbsp
   <img src="https://img.shields.io/badge/Google BigQuery-F3F3F3.svg?style=for-the-badge&logo=googlebigquery&logoColor=#669DF6" />&nbsp
   <img src="https://img.shields.io/badge/AWS S3-F3F3F3.svg?style=for-the-badge&logo=amazons3&logoColor=#569A31" />&nbsp
@@ -23,12 +25,11 @@
 
 
 <br>
-
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center"> Data ETL & Pipeline </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-F3F3F3.svg?style=for-the-badge&logo=pandas&logoColor=#150458" />&nbsp
+  <img src="https://img.shields.io/badge/airflow-F3F3F3?style=for-the-badge&logo=apacheairflow&logoColor=#017CEE" />&nbsp
+  <img src="https://img.shields.io/badge/AWS%20Lambda-F3F3F3?style=for-the-badge&logo=awslambda&logoColor=#FF9900" />&nbsp
 </div>
 
 <br>
@@ -38,11 +39,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Discord-F3F3F3.svg?style=for-the-badge&logo=discord&logoColor=#5865F2" />&nbsp
 </div>
 
 <br>
@@ -57,10 +54,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="wjdrms0402@gmail.com">
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
