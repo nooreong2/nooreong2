@@ -34,6 +34,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-F3F3F3.svg?style=for-the-badge&logo=pandas&logoColor=#150458" />&nbsp
   <img src="https://img.shields.io/badge/airflow-F3F3F3?style=for-the-badge&logo=apacheairflow&logoColor=#017CEE" />&nbsp
+  <img src="https://img.shields.io/badge/dbt-F3F3F3?style=for-the-badge&logo=dbt&logoColor=#FF694B" />&nbsp
   <img src="https://img.shields.io/badge/Spark-F3F3F3?style=for-the-badge&logo=apachespark&logoColor=#E25A1C" />&nbsp
 </div>
 
