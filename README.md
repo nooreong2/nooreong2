@@ -22,18 +22,17 @@
 </div>
 
 <br>
+
+
+<h3 align="center"> ☁ Cloud Service ☁ </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS%20Redshift-F3F3F3.svg?style=for-the-badge&logo=amazonredshift&logoColor=#8C4FFF" />&nbsp
   <img src="https://img.shields.io/badge/Snowflake-F3F3F3.svg?style=for-the-badge&logo=snowflake&logoColor=#29B5E8" />&nbsp
   <img src="https://img.shields.io/badge/Google BigQuery-F3F3F3.svg?style=for-the-badge&logo=googlebigquery&logoColor=#669DF6" />&nbsp
   <img src="https://img.shields.io/badge/AWS S3-F3F3F3.svg?style=for-the-badge&logo=amazons3&logoColor=#569A31" />&nbsp
+  <img src="https://img.shields.io/badge/Google Cloud-F3F3F3.svg?style=for-the-badge&logo=googlecloud&logoColor=#4285F4" />&nbsp
 </div>
 
-<h3 align="center"> ![image](https://github.com/nooreong2/nooreong2/assets/97031069/aa1ccb17-f76b-45ba-bed1-f5eae3817829)
- Cloud Service 🛢️</h3>
-<div align="center">
-  
-</div>div>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-F3F3F3.svg?style=for-the-badge&logo=pandas&logoColor=#150458" />&nbsp
