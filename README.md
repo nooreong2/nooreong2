@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nooreong's%20hub&fontSize=90)
 <div align="center">
   <p>💻 데이터 엔지니어 주니어 개발자입니다.</p>
 </div>
