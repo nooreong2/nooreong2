@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nooreong's%20hub&fontSize=90)
+![image](https://github.com/nooreong2/nooreong2/assets/97031069/551a9818-8a4b-444b-b710-f53e6fc5eb96)![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nooreong's%20hub&fontSize=90)
 <div align="center">
   <p>💻 데이터 엔지니어 주니어 개발자입니다.</p>
 </div>
@@ -29,7 +29,11 @@
   <img src="https://img.shields.io/badge/AWS S3-F3F3F3.svg?style=for-the-badge&logo=amazons3&logoColor=#569A31" />&nbsp
 </div>
 
-
+<h3 align="center"> ![image](https://github.com/nooreong2/nooreong2/assets/97031069/aa1ccb17-f76b-45ba-bed1-f5eae3817829)
+ Cloud Service 🛢️</h3>
+<div align="center">
+  
+</div>div>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-F3F3F3.svg?style=for-the-badge&logo=pandas&logoColor=#150458" />&nbsp
