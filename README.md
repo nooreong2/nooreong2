@@ -1,4 +1,4 @@
-![image](https://github.com/nooreong2/nooreong2/assets/97031069/551a9818-8a4b-444b-b710-f53e6fc5eb96)![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nooreong's%20hub&fontSize=90)
+
 <div align="center">
   <p>💻 데이터 엔지니어 주니어 개발자입니다.</p>
 </div>
