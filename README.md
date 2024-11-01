@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Python-F3F3F3.svg?style=for-the-badge&logo=Python&logoColor=#3776AB" />&nbsp
   <img src="https://img.shields.io/badge/SQL-F3F3F3.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Django-F3F3F3.svg?style=for-the-badge&logo=django&logoColor=#092E20" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-F3F3F3.svg?style=for-the-badge&logo=pandas&logoColor=#150458" />&nbsp
 </div>
 
 <h3 align="center"> 🛢️ Data 🛢️</h3>
@@ -35,7 +36,6 @@
 
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/pandas-F3F3F3.svg?style=for-the-badge&logo=pandas&logoColor=#150458" />&nbsp
   <img src="https://img.shields.io/badge/airflow-F3F3F3?style=for-the-badge&logo=apacheairflow&logoColor=#017CEE" />&nbsp
   <img src="https://img.shields.io/badge/dbt-F3F3F3?style=for-the-badge&logo=dbt&logoColor=#FF694B" />&nbsp
   <img src="https://img.shields.io/badge/Spark-F3F3F3?style=for-the-badge&logo=apachespark&logoColor=#E25A1C" />&nbsp
